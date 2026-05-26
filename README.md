@@ -1,4 +1,5 @@
 ### Choi Jeongwon
+</h6>NOW : Apple Developer Academy @ POSTECH </h6>
 <h6>🏫 Computer Science Engineering, Kyungpook National University, South Korea
 <br>🎨 Digital Art Convergence Major</h6>
 
